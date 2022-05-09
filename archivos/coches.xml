@@ -1,0 +1,42 @@
+<coches>
+
+<coche id="001">
+	<marca>Volkswagen</marca>
+	<modelo>Golf</modelo>
+	<motor>GTI 3.1</motor>
+	<ruedas>
+		<rueda>0.0</rueda>
+		<rueda>0.5</rueda>
+		<rueda>5.0</rueda>
+		<rueda>5.5</rueda>
+	</ruedas>
+</coche>
+
+
+<coche id="002">
+	<marca>Renault</marca>
+	<modelo>Megane</modelo>
+	<motor>200cv</motor>
+	<ruedas>
+		<rueda>0.0</rueda>
+		<rueda>0.5</rueda>
+		<rueda>5.0</rueda>
+		<rueda>5.5</rueda>
+	</ruedas>
+</coche>
+
+
+<coche id="002">
+	<marca>Lexus</marca>
+	<modelo>Lexus 1</modelo>
+	<motor>250cv</motor>
+	<ruedas>
+		<rueda>0.0</rueda>
+		<rueda>0.5</rueda>
+		<rueda>5.0</rueda>
+		<rueda>5.5</rueda>
+	</ruedas>
+</coche>
+
+
+</coches>
